@@ -1,1 +1,1 @@
-https://github.com/graciataptue/roadmap-projects/tree/main/single-page-cv
+https://roadmap.sh/projects/single-page-cv
